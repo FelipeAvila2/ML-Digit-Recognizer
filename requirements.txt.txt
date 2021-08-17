@@ -1,0 +1,8 @@
+scikit-learn @ file:///C:/ci/scikit-learn_1598376983131/work
+scipy @ file:///C:/ci/scipy_1616703425152/work
+pandas @ file:///C:/ci/pandas_1602088205210/work
+numpy @ file:///C:/ci/numpy_and_numpy_base_1596233945180/work
+Pillow @ file:///D:/bld/pillow_1625677957583/work
+tensorboard==2.2.2
+tensorflow-estimator==2.2.0
+tensorflow==2.2.1
